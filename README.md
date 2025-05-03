@@ -4,7 +4,7 @@ A robust and customizable utility for backing up PyCharm projects by intelligent
 
 ## Features
 
-- **Smart File Selection**: Automatically includes important development files (Python, config files, docs) while excluding unnecessary ones
+- **Smart File Selection**: Automatically includes important development files (Python code, config files, docs) while excluding unnecessary ones
 - **Module Detection**: Automatically detects and includes Python module directories
 - **Size Control**: Excludes files larger than a specified size threshold (default: 20MB)
 - **Custom Inclusions/Exclusions**: Specify custom paths to include or exclude
